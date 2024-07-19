@@ -1,0 +1,11 @@
+
+.normal-padding {
+    padding-top: 0px;
+    transition: padding-top 0.3s ease;
+  }
+  
+  .padding-change {
+    padding-top: 20px;
+    transition: padding-top 0.3s ease;
+  }
+  
