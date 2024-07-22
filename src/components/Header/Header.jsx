@@ -36,7 +36,7 @@ function Header() {
 
   return (
     <div
-      className={`sticky top-0 z-10 transition-all duration-300 ${paddingClass}`}
+      className={`sticky top-0 z-20 transition-all duration-300 ${paddingClass}`}
       style={{ backgroundColor: bgColor }}
     >
       {/* MainHeader */}
@@ -46,7 +46,7 @@ function Header() {
           <div className='flex items-center'>
             <div className='ms-0 md:ms-3'>
               <p 
-                className={`md:text-4xl text-base font_jost font-bold ${bgColor === 'white' ? 'text-[#F00507]' : 'text-white'}`}
+                className={`md:text-4xl text-[30px] font_jost font-bold ${bgColor === 'white' ? 'text-[#F00507]' : 'text-white'}`}
               >
                 FitApp
               </p>
