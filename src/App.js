@@ -8,11 +8,8 @@ import Home from './components/Home';
 import Pricing from './components/Pricing';
 import Review from './components/Review';
 import Contact from './components/Contact';
-<<<<<<< HEAD
 import Download from './components/Download';
-=======
 import Works from './components/Works';
->>>>>>> origin/master
 
 function App() {
   return (
@@ -28,11 +25,8 @@ function App() {
         <Features/>
       </div>
       <Screenshots/>
-<<<<<<< HEAD
       <Download/>
-=======
       <Works/>
->>>>>>> origin/master
       <div id="pricing">
         <Pricing/>
       </div>
