@@ -8,6 +8,7 @@ import Home from './components/Home';
 import Pricing from './components/Pricing';
 import Review from './components/Review';
 import Contact from './components/Contact';
+import Download from './components/Download';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
         <Features/>
       </div>
       <Screenshots/>
+      <Download/>
       <div id="pricing">
         <Pricing/>
       </div>

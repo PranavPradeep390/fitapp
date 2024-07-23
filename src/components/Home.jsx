@@ -7,7 +7,7 @@ import PhoneHover from './PhoneHover'
 
 function Home() {
   return (
-    <div className='relative w-full md:h-[750px]   bg-[#F00507] top-[-110px] md:top-[-80px] '>
+    <div className='relative w-full md:h-[750px]   bg-[#db2326] top-[-110px] md:top-[-80px] '>
       <img src={bgcircle} alt="na"/>
       <img className='absolute right-0 top-[280px]' src={bgtriangle} alt="na"  />
      <div className='flex flex-wrap mt-0 px-2 md:px-24 md:py-[60px] justify-center gap-0'>
