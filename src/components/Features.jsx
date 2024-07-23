@@ -4,32 +4,32 @@ import { FaEye,FaLayerGroup,FaEdit,FaShieldAlt,FaCloud,FaMobileAlt } from 'react
 const dummyData = [
   {
     icon: <FaEye />,
-    heading: "React Card",
+    heading: "High Resolution",
     description: "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
   },
   {
     icon: <FaLayerGroup />,
-    heading: "Node.js Card",
+    heading: "Retina Ready",
     description: "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
   },
   {
     icon: <FaEdit />,
-    heading: "Database Card",
+    heading: "Editable Data",
     description: "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.."
   },
   {
     icon: <FaShieldAlt />,
-    heading: "React Card",
+    heading: "Fully Secured",
     description: "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
   },
   {
     icon: <FaCloud />,
-    heading: "Node.js Card",
+    heading: "Cloud Storage",
     description: "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem."
   },
   {
     icon: <FaMobileAlt />,
-    heading: "Database Card",
+    heading: "Fully Responsive",
     description: "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.."
   }
 ];
